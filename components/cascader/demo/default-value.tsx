@@ -10,12 +10,12 @@ interface Option {
 
 const options: Option[] = [
   {
-    value: 'zhejiang',
-    label: 'Zhejiang',
+    value: '阿里云',
+    label: '阿里云',
     children: [
       {
-        value: 'hangzhou',
-        label: 'Hangzhou',
+        value: '账号1',
+        label: '账号2',
         children: [
           {
             value: 'xihu',
